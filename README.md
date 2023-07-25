@@ -7,7 +7,7 @@ Highlighting my comprehensive expertise, I hold recognized certifications such a
 
 <h2> Google Cybersecurity Professional Certificate Used</h2>
 
-- [Foundations of Cybersecurity](https://app.luminpdf.com/viewer/64c03276a09a4760c56e9c44)
+- [Foundations of Cybersecurity](https://github.com/malikaii99/Porfolio-Documents/blob/53be09fe946fbf756ed03543fb8631ac2b8c94cf/Foundations%20of%20Cybersecurity%20Certficate.pdf) 
   
 <h2>R/RStudio </h2>
 
