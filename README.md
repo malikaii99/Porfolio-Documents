@@ -19,7 +19,7 @@ Highlighting my comprehensive expertise, I hold recognized certifications such a
   - [Introduction to Project Management in RStudio](https://github.com/malikaii99/Porfolio-Documents/blob/9f20f78c83ba6770caf19cbb29683b75a2c7f989/andy-malik-afrifa-introduction-to-project-management-in-rstudio%20(1).pdf)
   - [Reproducibility in RStudio: Advanced Markdown](https://github.com/malikaii99/Porfolio-Documents/blob/601510f26894bdcdaf69e859b639fc8ca1a4db2f/andy-malik-afrifa-reproducibility-in-rstudio_-advanced-markdown%20(1).pdf)
   - [Data Wrangling in R: Part 1 & 2](https://github.com/malikaii99/Porfolio-Documents/blob/2c33f890f9e6a8e01469b1296533c10932b5b011/andy-malik-afrifa-data-wrangling-in-r_-part-1%20(1).pdf)
-  - [Working with Git in RStudio ]
+  - [Working with Git in RStudio ](https://github.com/malikaii99/Porfolio-Documents/blob/6d4a80eacfd8bcf4f53dc25a0a67dff94bc82ed1/andy-malik-afrifa-working-with-git-in-rstudio%20(1).pdf)
 - <b>Other Certificates </b>
   - [Information Security and Management](https://github.com/malikaii99/Porfolio-Documents/blob/476dbce76796593b9d8f5edcd5652cdd60658c31/NIH%20Information%20Security%20and%20Management%20Certificate.pdf)
   - [Overview of Statistical Concepts](https://github.com/malikaii99/Porfolio-Documents/blob/03ce8df38921ad5a33403731dcc21ab5b1e76180/andy-malik-afrifa-overview-of-statistical-concepts_-part-1%20(1).pdf)
