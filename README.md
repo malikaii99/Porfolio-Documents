@@ -14,7 +14,7 @@ Highlighting my comprehensive expertise, I hold recognized certifications such a
   - [Foundations of Cybersecurity](https://github.com/malikaii99/Porfolio-Documents/blob/53be09fe946fbf756ed03543fb8631ac2b8c94cf/Foundations%20of%20Cybersecurity%20Certficate.pdf) 
   
 - <b>R/RStudio Certificates </b>
-  - [Getting Started with R]()
+  - [Getting Started with R](https://github.com/malikaii99/Porfolio-Documents/blob/0f2291d762ff6af7c206270e94f7ce7555a2bb64/Getting%20Started%20with%20R%20Certificate.pdf)
   - [Getting Started with R Studio]() 
   - [Introduction to Project Management in RStudio] 
   - [Reproducibility in RStudio: Advanced Markdown]
