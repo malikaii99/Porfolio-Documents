@@ -15,7 +15,7 @@ Highlighting my comprehensive expertise, I hold recognized certifications such a
   
 - <b>R/RStudio Certificates </b>
   - [Getting Started with R](https://github.com/malikaii99/Porfolio-Documents/blob/0f2291d762ff6af7c206270e94f7ce7555a2bb64/Getting%20Started%20with%20R%20Certificate.pdf)
-  - [Getting Started with R Studio]() 
+  - [Getting Started with R Studio](https://github.com/malikaii99/Porfolio-Documents/blob/63cb4cc13e05da4fc0f88e138e275c75aab97241/Getting%20Started%20with%20Rstudio%20Certificate.pdf) 
   - [Introduction to Project Management in RStudio] 
   - [Reproducibility in RStudio: Advanced Markdown]
   - [Data Wrangling in R: Part 1 & 2]
