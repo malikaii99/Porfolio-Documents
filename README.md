@@ -18,7 +18,7 @@ Highlighting my comprehensive expertise, I hold recognized certifications such a
   - [Getting Started with R Studio](https://github.com/malikaii99/Porfolio-Documents/blob/63cb4cc13e05da4fc0f88e138e275c75aab97241/Getting%20Started%20with%20Rstudio%20Certificate.pdf) 
   - [Introduction to Project Management in RStudio] 
   - [Reproducibility in RStudio: Advanced Markdown]
-  - [Data Wrangling in R: Part 1 & 2]
+  - [Data Wrangling in R: Part 1 & 2](https://github.com/malikaii99/Porfolio-Documents/blob/2c33f890f9e6a8e01469b1296533c10932b5b011/andy-malik-afrifa-data-wrangling-in-r_-part-1%20(1).pdf)
   - [Working with Git in RStudio ]
 - <b>Other Certificates </b>
   - [Information Security and Management](https://github.com/malikaii99/Porfolio-Documents/blob/476dbce76796593b9d8f5edcd5652cdd60658c31/NIH%20Information%20Security%20and%20Management%20Certificate.pdf)
