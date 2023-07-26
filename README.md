@@ -17,7 +17,7 @@ Highlighting my comprehensive expertise, I hold recognized certifications such a
   - [Getting Started with R](https://github.com/malikaii99/Porfolio-Documents/blob/0f2291d762ff6af7c206270e94f7ce7555a2bb64/Getting%20Started%20with%20R%20Certificate.pdf)
   - [Getting Started with R Studio](https://github.com/malikaii99/Porfolio-Documents/blob/63cb4cc13e05da4fc0f88e138e275c75aab97241/Getting%20Started%20with%20Rstudio%20Certificate.pdf) 
   - [Introduction to Project Management in RStudio](https://github.com/malikaii99/Porfolio-Documents/blob/9f20f78c83ba6770caf19cbb29683b75a2c7f989/andy-malik-afrifa-introduction-to-project-management-in-rstudio%20(1).pdf)
-  - [Reproducibility in RStudio: Advanced Markdown]
+  - [Reproducibility in RStudio: Advanced Markdown](https://github.com/malikaii99/Porfolio-Documents/blob/601510f26894bdcdaf69e859b639fc8ca1a4db2f/andy-malik-afrifa-reproducibility-in-rstudio_-advanced-markdown%20(1).pdf)
   - [Data Wrangling in R: Part 1 & 2](https://github.com/malikaii99/Porfolio-Documents/blob/2c33f890f9e6a8e01469b1296533c10932b5b011/andy-malik-afrifa-data-wrangling-in-r_-part-1%20(1).pdf)
   - [Working with Git in RStudio ]
 - <b>Other Certificates </b>
