@@ -22,4 +22,4 @@ Highlighting my comprehensive expertise, I hold recognized certifications such a
   - [Working with Git in RStudio ]
 - <b>Other Certificates </b>
   - [Information Security and Management](https://github.com/malikaii99/Porfolio-Documents/blob/476dbce76796593b9d8f5edcd5652cdd60658c31/NIH%20Information%20Security%20and%20Management%20Certificate.pdf)
-  - [Overview of Statistical Concepts]()
+  - [Overview of Statistical Concepts](https://github.com/malikaii99/Porfolio-Documents/blob/03ce8df38921ad5a33403731dcc21ab5b1e76180/andy-malik-afrifa-overview-of-statistical-concepts_-part-1%20(1).pdf)
