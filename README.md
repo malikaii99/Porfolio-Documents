@@ -14,9 +14,12 @@ Highlighting my comprehensive expertise, I hold recognized certifications such a
   - [Foundations of Cybersecurity](https://github.com/malikaii99/Porfolio-Documents/blob/53be09fe946fbf756ed03543fb8631ac2b8c94cf/Foundations%20of%20Cybersecurity%20Certficate.pdf) 
   
 - <b>R/RStudio Certificates </b>
-  - <b>Introduction to Project Management in RStudio</b> 
-  - <b>Reproducibility in RStudio: Advanced Markdown</b>
-  - <b>Data Wrangling in R: Part 1 & 2 </b>
-  - <b>Working with Git in RStudio </b>
+  - [Getting Started with R]()
+  - [Getting Started with R Studio]() 
+  - [Introduction to Project Management in RStudio] 
+  - [Reproducibility in RStudio: Advanced Markdown]
+  - [Data Wrangling in R: Part 1 & 2]
+  - [Working with Git in RStudio ]
 - <b>Other Certificates </b>
-  - [Information Security and Management](https://github.com/malikaii99/Porfolio-Documents/blob/476dbce76796593b9d8f5edcd5652cdd60658c31/NIH%20Information%20Security%20and%20Management%20Certificate.pdf) 
+  - [Information Security and Management](https://github.com/malikaii99/Porfolio-Documents/blob/476dbce76796593b9d8f5edcd5652cdd60658c31/NIH%20Information%20Security%20and%20Management%20Certificate.pdf)
+  - [Overview of Statistical Concepts]()
