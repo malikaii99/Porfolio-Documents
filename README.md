@@ -15,6 +15,7 @@ Highlighting my comprehensive expertise, I hold recognized certifications such a
   - [Connect and Protect: Networks and Network Security](https://github.com/malikaii99/Porfolio-Documents/blob/3425729df64d4aaebfe4857d5cdf80804376ab78/Connect%20and%20Protect-%20Networks%20and%20Network%20Security%20Certificate.pdf)
   - [Tools of the Trade-Linux and SQL Certificate](https://github.com/malikaii99/Porfolio-Documents/blob/451c7094478b27de15cb9bb9e2c7fa4328165b2f/Tools%20of%20the%20Trade_Linux%20and%20SQL%20Certificate.pdf)
   - [Assets, Threats, and Vulnerabilities Certificate](https://github.com/malikaii99/Porfolio-Documents/blob/3c54e6c620cf8a1148c4f07b68108f4f0bd1adf7/Assets%2C%20Threats%2C%20and%20Vulnerabilities%20Certificate.pdf)
+  - [Sound the Alarm: Detection and Response]()
   
 - <b>R/RStudio Certificates </b>
   - [Getting Started with R](https://github.com/malikaii99/Porfolio-Documents/blob/0f2291d762ff6af7c206270e94f7ce7555a2bb64/Getting%20Started%20with%20R%20Certificate.pdf)
