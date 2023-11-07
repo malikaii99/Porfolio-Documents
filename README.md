@@ -17,7 +17,7 @@ Highlighting my comprehensive expertise, I hold recognized certifications such a
   - [Assets, Threats, and Vulnerabilities Certificate](https://github.com/malikaii99/Porfolio-Documents/blob/3c54e6c620cf8a1148c4f07b68108f4f0bd1adf7/Assets%2C%20Threats%2C%20and%20Vulnerabilities%20Certificate.pdf)
   - [Sound the Alarm: Detection and Response](https://github.com/malikaii99/Porfolio-Documents/blob/2609199d068ab78ed3da80a75607356796f93ef0/Sound%20the%20Alarm%20Detection%20and%20Response%20Certificate.pdf)
   - [Automate Cybersecurity Tasks with Python Certificate](https://github.com/malikaii99/Porfolio-Documents/blob/16b42470285478e4a71dd09b853d6194698fb14f/Automate%20Cybersecurity%20Tasks%20with%20Python%20Certificate.pdf)
-  - [Put It to Work: Prepare for Cybersecurity Jobs]()
+  - [Put It to Work: Prepare for Cybersecurity Jobs](https://github.com/malikaii99/Porfolio-Documents/blob/bbb142c3f08ebf67e9f034905f2264a93eb78b16/Put%20It%20to%20Work%20Certificate.pdf)
   
 - <b>R/RStudio Certificates </b>
   - [Getting Started with R](https://github.com/malikaii99/Porfolio-Documents/blob/0f2291d762ff6af7c206270e94f7ce7555a2bb64/Getting%20Started%20with%20R%20Certificate.pdf)
