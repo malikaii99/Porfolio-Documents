@@ -9,7 +9,7 @@ Highlighting my comprehensive expertise, I hold recognized certifications such a
   
 <h2> Certificates</h2>
 
-- <b>Google Cybersecurity Professional Certificate </b>
+- <b>[Google Cybersecurity Professional Certificate](https://github.com/malikaii99/Porfolio-Documents/blob/c748b9d4d3707a8b269ae13f1afdc91c05b7a435/Google%20Cybersecurity%20Certificate.pdf) </b>
   - [Foundations of Cybersecurity](https://github.com/malikaii99/Porfolio-Documents/blob/53be09fe946fbf756ed03543fb8631ac2b8c94cf/Foundations%20of%20Cybersecurity%20Certficate.pdf)
   - [Play It Safe: Manage Security Risks](https://github.com/malikaii99/Porfolio-Documents/blob/24551993548ae072eabcaa1dbdea4f97281c1344/Play%20It%20Safe-%20Manage%20Security%20Risks%20Certificate.pdf)
   - [Connect and Protect: Networks and Network Security](https://github.com/malikaii99/Porfolio-Documents/blob/3425729df64d4aaebfe4857d5cdf80804376ab78/Connect%20and%20Protect-%20Networks%20and%20Network%20Security%20Certificate.pdf)
