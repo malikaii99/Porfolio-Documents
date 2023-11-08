@@ -1,10 +1,7 @@
 <h1>Documents</h1>
 
 <h2>Description</h2>
-Highlighting my comprehensive expertise, I hold recognized certifications such as Foundations of Cybersecurity, Reproducibility in RStudio: Basic and Advanced Markdown, Project Management in RStudio, and am currently pursuing CISSP. These credentials validate my proficiency in safeguarding data, performing vulnerability assessments, and ensuring robust cybersecurity measures.
-<br />
-
-<h2> Resume</h2>
+Highlighting my comprehensive expertise, I hold recognized certifications such as Foundations of Cybersecurity, Reproducibility in RStudio: Basic and Advanced Markdown, Project Management in RStudio, and am currently pursuing CompTIA Security+ and CISSP. These credentials validate my proficiency in safeguarding data, performing vulnerability assessments, and ensuring robust cybersecurity measures.
 
   
 <h2> Certificates</h2>
